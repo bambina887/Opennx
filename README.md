@@ -210,4 +210,4 @@ OpenNX is available as a complete free version, meaning all features and updates
 Unlock the full potential of remote desktop management with OpenNX—**[Download Now](https://www.softyne.com/opennx)**!
 
 ---
-**Last updated:** 2026-10-18 22:19:23 UTC
+**Last updated:** 2026-10-19 00:43:11 UTC
